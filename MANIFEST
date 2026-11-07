@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "locale": "es_ES",
+  "platform": "4.3.1",
+  "metadata": {
+    "appmode": "shiny",
+    "primary_rmd": null,
+    "primary_html": null,
+    "content_category": null,
+    "has_parameters": false
+  },
+  "packages": {
+    "shiny": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com"
+    },
+    "shinydashboard": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com"
+    },
+    "tidyverse": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com"
+    },
+    "DT": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com"
+    },
+    "plotly": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com"
+    },
+    "randomForest": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com"
+    }
+  },
+  "files": {
+    "app.R": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    }
+  }
+}
